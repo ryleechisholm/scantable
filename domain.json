@@ -1,0 +1,18 @@
+[
+  {
+    "id": 12,
+    "domain": "testcustomer.com",
+    "is_scan": 1,
+    "is_cbt": 1,
+    "ts_updated": 1642801497,
+    "num_risk_domains": 20053
+  },
+  {
+    "id": 13,
+    "domain": "scam13.com",
+    "is_scan": 1,
+    "is_cbt": 1,
+    "ts_updated": 1642801497,
+    "num_risk_domains": 744
+  }
+]
